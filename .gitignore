@@ -19,6 +19,12 @@ sysinfo.txt
 /*.user
 /*.unityproj
 /*.booproj
+
+
+# ======== #
+# Webstorm #
+# ======== #
+.idea
  
 # ============ #
 # OS generated #
